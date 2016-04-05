@@ -1,3 +1,46 @@
 @charset "utf-8";
 /* CSS Document */
 
+.hidden
+{
+	display:none;
+}
+
+body
+{
+	background-color:#fff;
+	width:100%;
+	height:100%;
+	margin:auto;
+}
+
+
+
+.h2
+{
+ font-family: 'Lora', serif;
+ font-style:bold;
+ font-size:24px;
+ margin-left:40%;
+ margin-top:50px;
+ background-image: url('');
+}
+
+.filterNav
+{
+	background-color:#ffcc66;
+	width:100%;
+	margin:auto;
+	margin-top: 50px;
+	margin-bottom:50px;
+	margin-left:10%;
+}
+
+.filterNav   li
+{
+	font-family: 'PT+Sans', serif;
+	font-size:16px;
+	display:inline-block;
+	color:white;
+	font-style:none;
+}
