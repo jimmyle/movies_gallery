@@ -28,6 +28,14 @@
 <title>Welcome to the Finest Selection of Blu-rays on the internets!</title>
 
 <link href="css/main.css" rel="stylesheet" type="text/css">
+
+<link href="css/foundation.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/foundation.min.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/normalize.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/reset.css" rel="stylesheet" type="text/css" media="screen">
+
+<link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lora:700' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <?php
